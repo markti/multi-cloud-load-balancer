@@ -10,5 +10,5 @@ gcp_project_id         = "packer-images-402019"
 gcp_primary_region     = "us-central1-a"
 
 image_name             = "multi-cloud-rainbow"
-image_version          = "1.0.14"
+image_version          = "1.0.15"
 my_ip_address          = "74.137.65.129"
